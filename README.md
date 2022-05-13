@@ -6,3 +6,4 @@ kota
 guna
 mumbai
 chennai
+jaipur
